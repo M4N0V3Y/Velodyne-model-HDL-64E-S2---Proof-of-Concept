@@ -8,7 +8,7 @@
             "name": "Reading configuration file",
             "type": "python",
             "request": "launch",
-            "program": "read_cal.py",
+            "program": "calibration_from_pcap.py",
             "args": ["maccdc2012_00011.pcap", "maccdc2012_00011.json"],
             "console": "integratedTerminal",
             "justMyCode": true
