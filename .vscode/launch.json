@@ -1,0 +1,25 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Reading configuration file",
+            "type": "python",
+            "request": "launch",
+            "program": "read_cal.py",
+            "args": ["maccdc2012_00011.pcap", "maccdc2012_00011.json"],
+            "console": "integratedTerminal",
+            "justMyCode": true
+        },
+        {
+            "name": "Reading Points",
+            "type": "python",
+            "request": "launch",
+            "program": "read_points.py",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        }
+    ]
+}
