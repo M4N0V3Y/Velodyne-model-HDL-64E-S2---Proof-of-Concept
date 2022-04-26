@@ -1,6 +1,6 @@
 # Usage of Velodyne Lidar with  Python
 
-This code currently supports model HDL 64E S2 only.
+POC for Velodyne model HDL 64E S2.
 
 *** You can download 'maccdc2012_00011.pcap' from [maccdc2012_00011.pcap](https://download.netresec.com/pcap/maccdc-2012/)
 ## Table of Contents
