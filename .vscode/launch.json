@@ -17,7 +17,7 @@
             "name": "Reading Points",
             "type": "python",
             "request": "launch",
-            "program": "read_points.py",
+            "program": "point_cloud_from_pcap.py",
             "console": "integratedTerminal",
             "justMyCode": true
         }
